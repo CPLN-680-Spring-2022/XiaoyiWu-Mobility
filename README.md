@@ -1,6 +1,10 @@
 # The impact of COVID-19 on human mobility pattern in NYC
 Xiaoyi Wu
 
+Due to the limited storage in organization repo, I can't submit the whole content in this repo. Here is the link of my complete project: https://github.com/Xiaoyi-Wu0711/mobility_covid-19
+1. Report: https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/report.pdf
+2. Interative map: https://xiaoyi-wu0711.github.io/mobility_web/
+
 ## Introduction
 As the most populous city in the United States with 8.8 million people distributed over 300.46 square miles (U.S Census Bureau, 2020), New York City has become the pandemic epicenter (Cordes & Castro, 2020) since the first confirmed case on March 1st. Especially, under the setting of holiday and Omicron variant, NYC experienced unprecedented transmission speed at 2022 New Year’s Eve. This study focuses on the spatio-temporal analysis of human mobility pattern in NYC to study COVID-19’s impact on travel behaviors, and social equity analysis in different contexts to help the government properly response to public health emergencies.
 
